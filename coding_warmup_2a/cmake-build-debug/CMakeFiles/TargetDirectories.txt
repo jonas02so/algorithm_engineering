@@ -1,0 +1,3 @@
+C:/Users/jonas/CLionProjects/coding_warmup_2a/cmake-build-debug/CMakeFiles/coding_warmup_2a.dir
+C:/Users/jonas/CLionProjects/coding_warmup_2a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jonas/CLionProjects/coding_warmup_2a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
