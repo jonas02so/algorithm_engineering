@@ -1,0 +1,9 @@
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/CMakeFiles/fizzbuzz_tests.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/CMakeFiles/fizzbuzzapp.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/fizzbuzz/CMakeFiles/fizzbuzz.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/fizzbuzz/CMakeFiles/edit_cache.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/fizzbuzz/CMakeFiles/rebuild_cache.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/catch/CMakeFiles/edit_cache.dir
+C:/Users/jonas/CLionProjects/fizzbuzz/cmake-build-release/catch/CMakeFiles/rebuild_cache.dir
